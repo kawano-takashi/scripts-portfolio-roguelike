@@ -113,3 +113,4 @@ c:\Users\konop\Desktop\portfolio\scripts-portfolio-roguelike\test\Roguelike.Doma
 c:\Users\konop\Desktop\portfolio\scripts-portfolio-roguelike\test\Roguelike.Domain.Tests\obj\Debug\net10.0\Roguelike.Domain.Tests.dll
 c:\Users\konop\Desktop\portfolio\scripts-portfolio-roguelike\test\Roguelike.Domain.Tests\obj\Debug\net10.0\refint\Roguelike.Domain.Tests.dll
 c:\Users\konop\Desktop\portfolio\scripts-portfolio-roguelike\test\Roguelike.Domain.Tests\obj\Debug\net10.0\Roguelike.Domain.Tests.pdb
+c:\Users\konop\Desktop\portfolio\scripts-portfolio-roguelike\test\Roguelike.Domain.Tests\obj\Debug\net10.0\Roguelike.Domain.Tests.sourcelink.json
