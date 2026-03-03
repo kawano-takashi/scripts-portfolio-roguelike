@@ -1,0 +1,19 @@
+{
+    "name": "Roguelike.Infrastructure",
+    "rootNamespace": "Roguelike.Infrastructure",
+    "references": [
+        "Roguelike.Domain",
+        "Roguelike.Application",
+        "Roguelike.Presentation",
+        "VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

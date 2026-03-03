@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Roguelike.Application.Tests/Roguelike.Application.Tests.csproj" />
+  <Project Path="Roguelike.Domain.Tests/Roguelike.Domain.Tests.csproj" />
+</Solution>

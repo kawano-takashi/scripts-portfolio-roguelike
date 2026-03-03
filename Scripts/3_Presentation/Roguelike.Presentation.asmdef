@@ -1,0 +1,33 @@
+﻿{
+    "name":  "Roguelike.Presentation",
+    "rootNamespace":  "Roguelike.Presentation",
+    "references":  [
+                       "Roguelike.Application",
+                       "Roguelike.Shared",
+                       "Unity.InputSystem",
+                       "Unity.TextMeshPro",
+                       "UniTask",
+                       "VContainer",
+                       "R3.Unity",
+                       "DOTween.Modules"
+                   ],
+    "includePlatforms":  [
+
+                         ],
+    "excludePlatforms":  [
+
+                         ],
+    "allowUnsafeCode":  false,
+    "overrideReferences":  false,
+    "precompiledReferences":  [
+
+                              ],
+    "autoReferenced":  true,
+    "defineConstraints":  [
+
+                          ],
+    "versionDefines":  [
+
+                       ],
+    "noEngineReferences":  false
+}
